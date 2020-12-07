@@ -1,1 +1,1 @@
-(pr linkki)[https://github.com/HoolaBoola/ohtu-miniprojekti/pull/1]
+https://github.com/HoolaBoola/ohtu-miniprojekti/pull/1
